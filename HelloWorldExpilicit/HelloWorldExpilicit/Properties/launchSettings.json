@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloWorldExpilicit": {
+      "commandName": "Project",
+      "commandLineArgs": "Mubarak"
+    }
+  }
+}

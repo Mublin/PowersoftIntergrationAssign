@@ -1,0 +1,4 @@
+GET http://localhost:5239
+
+###
+POST http://localhost:5239/api/product

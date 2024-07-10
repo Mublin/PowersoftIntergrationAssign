@@ -1,0 +1,10 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+POST http://localhost:5152/api/todos/
+content-type: application/json
+
+{
+  "name": "coding" 
+}
+###
+
+GET http://localhost:5152/api/todos/

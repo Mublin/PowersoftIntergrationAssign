@@ -1,0 +1,13 @@
+GET http://localhost:5005/todos/
+
+
+###
+POST http://localhost:5005/todos
+content-type: application/json
+
+{
+  "id": 3,
+  "name": "coding",
+  "DueDate": "2024-06-05",
+  "IsCompleted": false
+}
